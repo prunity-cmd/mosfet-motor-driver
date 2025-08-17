@@ -17,11 +17,11 @@ Features:
 
 Repository Contents:
 
-- schematics/ → Complete circuit schematic files.
+- schematics
 
-- pcb/ → KiCad PCB design files.
+- pcb
 
-- gerber/ → Fabrication-ready files for PCB manufacturing.
+- gerber
 
 
 Contributing:
